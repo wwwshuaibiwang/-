@@ -1,0 +1,121 @@
+
+EPOCH 0 | Train loss: 1.5634
+EPOCH 0 | Validtation loss: 1.6289
+EPOCH 0 | Current learning rate: 0.001
+EPOCH 1 | Train loss: 1.5628
+EPOCH 1 | Validtation loss: 1.6751
+EPOCH 1 | Current learning rate: 0.001
+EPOCH 2 | Train loss: 1.5363
+EPOCH 2 | Validtation loss: 1.5316
+EPOCH 2 | Current learning rate: 0.001
+EPOCH 3 | Train loss: 1.5403
+EPOCH 3 | Validtation loss: 1.5617
+EPOCH 3 | Current learning rate: 0.001
+EPOCH 4 | Train loss: 1.5158
+EPOCH 4 | Validtation loss: 1.5308
+EPOCH 4 | Current learning rate: 0.001
+EPOCH 5 | Train loss: 1.5379
+EPOCH 5 | Validtation loss: 1.5445
+EPOCH 5 | Current learning rate: 0.001
+EPOCH 6 | Train loss: 1.526
+EPOCH 6 | Validtation loss: 1.5634
+EPOCH 6 | Current learning rate: 0.001
+EPOCH 7 | Train loss: 1.5308
+EPOCH 7 | Validtation loss: 1.536
+EPOCH 7 | Current learning rate: 0.001
+EPOCH 8 | Train loss: 1.5114
+EPOCH 8 | Validtation loss: 1.5177
+EPOCH 8 | Current learning rate: 0.001
+EPOCH 9 | Train loss: 1.4945
+EPOCH 9 | Validtation loss: 1.5229
+EPOCH 9 | Current learning rate: 0.001
+EPOCH 10 | Train loss: 1.5159
+EPOCH 10 | Validtation loss: 1.4963
+EPOCH 10 | Current learning rate: 0.001
+EPOCH 11 | Train loss: 1.4899
+EPOCH 11 | Validtation loss: 1.5262
+EPOCH 11 | Current learning rate: 0.001
+EPOCH 12 | Train loss: 1.4895
+EPOCH 12 | Validtation loss: 1.5304
+EPOCH 12 | Current learning rate: 0.001
+EPOCH 13 | Train loss: 1.5022
+EPOCH 13 | Validtation loss: nan
+EPOCH 13 | Current learning rate: 0.001
+EPOCH 14 | Train loss: nan
+EPOCH 14 | Validtation loss: nan
+EPOCH 14 | Current learning rate: 0.001
+EPOCH 15 | Train loss: nan
+EPOCH 15 | Validtation loss: nan
+EPOCH 15 | Current learning rate: 0.001
+EPOCH 16 | Train loss: nan
+EPOCH 16 | Validtation loss: nan
+EPOCH 16 | Current learning rate: 0.001
+EPOCH 17 | Train loss: nan
+EPOCH 17 | Validtation loss: nan
+EPOCH 17 | Current learning rate: 0.0001
+EPOCH 18 | Train loss: nan
+EPOCH 18 | Validtation loss: nan
+EPOCH 18 | Current learning rate: 0.0001
+EPOCH 19 | Train loss: nan
+EPOCH 19 | Validtation loss: nan
+EPOCH 19 | Current learning rate: 0.0001
+EPOCH 20 | Train loss: nan
+EPOCH 20 | Validtation loss: nan
+EPOCH 20 | Current learning rate: 0.0001
+EPOCH 21 | Train loss: nan
+EPOCH 21 | Validtation loss: nan
+EPOCH 21 | Current learning rate: 0.0001
+EPOCH 22 | Train loss: nan
+EPOCH 22 | Validtation loss: nan
+EPOCH 22 | Current learning rate: 0.0001
+EPOCH 23 | Train loss: nan
+EPOCH 23 | Validtation loss: nan
+EPOCH 23 | Current learning rate: 1e-05
+EPOCH 24 | Train loss: nan
+EPOCH 24 | Validtation loss: nan
+EPOCH 24 | Current learning rate: 1e-05
+EPOCH 25 | Train loss: nan
+EPOCH 25 | Validtation loss: nan
+EPOCH 25 | Current learning rate: 1e-05
+EPOCH 26 | Train loss: nan
+EPOCH 26 | Validtation loss: nan
+EPOCH 26 | Current learning rate: 1e-05
+EPOCH 27 | Train loss: nan
+EPOCH 27 | Validtation loss: nan
+EPOCH 27 | Current learning rate: 1e-05
+EPOCH 28 | Train loss: nan
+EPOCH 28 | Validtation loss: nan
+EPOCH 28 | Current learning rate: 1e-05
+EPOCH 29 | Train loss: nan
+EPOCH 29 | Validtation loss: nan
+EPOCH 29 | Current learning rate: 1.0000000000000002e-06
+EPOCH 30 | Train loss: nan
+EPOCH 30 | Validtation loss: nan
+EPOCH 30 | Current learning rate: 1.0000000000000002e-06
+EPOCH 31 | Train loss: nan
+EPOCH 31 | Validtation loss: nan
+EPOCH 31 | Current learning rate: 1.0000000000000002e-06
+EPOCH 32 | Train loss: nan
+EPOCH 32 | Validtation loss: nan
+EPOCH 32 | Current learning rate: 1.0000000000000002e-06
+EPOCH 33 | Train loss: nan
+EPOCH 33 | Validtation loss: nan
+EPOCH 33 | Current learning rate: 1.0000000000000002e-06
+EPOCH 34 | Train loss: nan
+EPOCH 34 | Validtation loss: nan
+EPOCH 34 | Current learning rate: 1.0000000000000002e-06
+EPOCH 35 | Train loss: nan
+EPOCH 35 | Validtation loss: nan
+EPOCH 35 | Current learning rate: 1.0000000000000002e-07
+EPOCH 36 | Train loss: nan
+EPOCH 36 | Validtation loss: nan
+EPOCH 36 | Current learning rate: 1.0000000000000002e-07
+EPOCH 37 | Train loss: nan
+EPOCH 37 | Validtation loss: nan
+EPOCH 37 | Current learning rate: 1.0000000000000002e-07
+EPOCH 38 | Train loss: nan
+EPOCH 38 | Validtation loss: nan
+EPOCH 38 | Current learning rate: 1.0000000000000002e-07
+EPOCH 39 | Train loss: nan
+EPOCH 39 | Validtation loss: nan
+EPOCH 39 | Current learning rate: 1.0000000000000002e-07

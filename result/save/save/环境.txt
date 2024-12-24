@@ -1,0 +1,49 @@
+export DATASET=mosi      
+python /root/autodl-tmp/nlp_final-main/run_tcsp.py \
+--batch_size 24 \
+--do_trans \
+--do_regre \
+--trans_save_path /root/autodl-tmp/nlp_final-main/result/save/save/${DATASET}/trans/ \
+--regre_save_path /root/autodl-tmp/nlp_final-main/result/save/save/${DATASET}/regre/ \
+--device_ids 0 \
+--trans_epoch 40 \
+--trans_hidden_size 100 \
+--trans_lr 1e-3 \
+--regre_epoch 30 \
+--regre_lr 1e-3 \
+--regre_mask_topk 5 \
+--regre_use_mi \
+--regre_use_mp \
+--regre_mi_mask_type topk \
+--regre_mp_mask_type topk \
+--regre_hidden_size 100
+
+#分步
+export DATASET=mosei
+python /root/autodl-tmp/nlp_final-main/run_tcsp.py \
+--dataset ${DATASET} \
+--batch_size 24 \
+--do_trans \
+--trans_save_path ./save/${DATASET}/trans/ \
+--device_ids 0 \
+--trans_epoch 40 \
+--trans_hidden_size 100 \
+--trans_lr 1e-3
+
+export DATASET=mosei
+python /root/autodl-tmp/nlp_final-main/run_tcsp.py \
+--dataset ${DATASET} \
+--batch_size 24 \
+--do_regre \
+--trans_save_path /root/autodl-tmp/nlp_final-main/result/save/save/${DATASET}/trans/ \	
+--regre_save_path /root/autodl-tmp/nlp_final-main/result/save/save/${DATASET}/regre/ \
+--device_ids 0 \
+--regre_epoch 30 \
+--regre_lr 1e-3 \
+--regre_mask_topk 5 \
+--regre_use_mi \
+--regre_use_mp \
+--regre_mi_mask_type topk \
+--regre_mp_mask_type topk \
+--regre_hidden_size 100 \
+--trans_hidden_size 100 \	
